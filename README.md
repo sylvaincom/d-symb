@@ -1,3 +1,3 @@
-# $d_{symb}$
+# d_symb
 
-The code will be made available once the proceedings are available.
+The code of $d_{symb}$ will be made available once the proceedings are available.
