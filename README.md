@@ -1,6 +1,6 @@
 # $d_{symb}$: An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals
 
->Now that the proceedings are available, the code of $d_{symb}$ will soon be made available!
+>Now that the proceedings are available, the code of $d_{symb}$ will be made available very soon!
 
 This repository contains the code to reproduce all experiments in our publication:
 ```
@@ -8,7 +8,20 @@ S. W. Combettes, C. Truong, and L. Oudre.
 An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals.
 In "Proceedings of the International Conference on Data Mining Workshops (ICDMW)", Shanghai, China, 2023.
 ```
-Links: [paper](https://ieeexplore.ieee.org/abstract/document/10411636) / [PDF](http://www.laurentoudre.fr/publis/ICDM2023.pdf)
+Links: [paper](https://ieeexplore.ieee.org/abstract/document/10411636) / [PDF](http://www.laurentoudre.fr/publis/ICDM2023.pdf).
+
+Recommended citation:
+```
+@INPROCEEDINGS{2023_combettes_dsymb_icdm,
+  author={Combettes, Sylvain W. and Truong, Charles and Oudre, Laurent},
+  booktitle={2023 IEEE International Conference on Data Mining Workshops (ICDMW)}, 
+  title={An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals}, 
+  year={2023},
+  pages={533-539},
+  doi={10.1109/ICDMW60847.2023.00076},
+  location={Shanghai, China},
+}
+```
 
 All the code is written in Python (scripts and notebooks).
 
