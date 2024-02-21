@@ -1,7 +1,5 @@
 # $d_{symb}$: An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals
 
->Now that the proceedings are available, the code of $d_{symb}$ will be made available very soon!
-
 This repository contains the code to reproduce all experiments in our publication:
 ```
 S. W. Combettes, C. Truong, and L. Oudre.
