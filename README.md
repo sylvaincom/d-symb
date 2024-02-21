@@ -41,14 +41,14 @@ For $d_{symb}$, a symbolic representation (with an associated distance) is a sci
 
 `date_exp` is a string (for example `"2023_12_01"`) in order to version the experiments.
 
-The code outputs the following kinds of `csv` files:
-1. `data` folder: the gait data set
-2. `results/{date_exp}` folder: results (distance matrices, etc)
-3. `results/{date_exp}/img` folder: figures, plots
+The code inputs / outputs the following files:
+1. in the `data` folder: the gait data set (the only necessary input)
+1. in the `results/{date_exp}` folder: results such distance matrices (it also currently contains precomputed outputs)
+1. in the `results/{date_exp}/img` folder: figures, plots
 
 ## How to use this repository to reproduce the $d_{symb}$ paper
 
-Run the `interpret_distance_dsymb_gait.ipynb` notebook.
+Run the `interpret_distance_dsymb_gait.ipynb` notebook. More information is provided at the beginning of this notebook.
 
 ## Requirements
 
