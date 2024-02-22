@@ -27,6 +27,8 @@ All the code is written in Python (scripts and notebooks).
 
 Please let us know of any issue you might encounter when using this code, either by opening an issue on this repository or by sending an email to `sylvain.combettes [at] ens-paris-saclay.fr`. Or if you just need some clarification or help.
 
+Note that we developed the [$d_{symb}$ playground](https://sylvaincom.github.io/publication/2024-05-16-dsymb-icde), a online tool (Streamlit application) to apply $d_{symb}$ to your uploaded data, available at https://dsymb-playground.streamlit.app/.
+
 ## How is a symbolic representation implemented?
 
 For $d_{symb}$, a symbolic representation (with an associated distance) is a scikit-learn pipeline based on the following classes in the `src` folder:
