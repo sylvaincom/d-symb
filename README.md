@@ -2,8 +2,6 @@
 
 > **_NOTE:_** :new: :new: We developed the $d_{symb}$ playground [[website](https://sylvaincom.github.io/publication/2024-05-16-dsymb-icde) / [code](https://github.com/boniolp/dsymb-playground) / [Streamlit app](https://dsymb-playground.streamlit.app/)], a online tool (Streamlit application) to apply $d_{symb}$ to your uploaded data.
 
-
-
 This repository contains the code to reproduce all experiments in our publication:
 ```
 S. W. Combettes, C. Truong, and L. Oudre.
@@ -70,3 +68,19 @@ Run the `interpret_distance_dsymb_gait.ipynb` notebook. More information is prov
 ## Licence
 
 This project is licensed under the BSD 2-Clause License, see the `LICENSE.md` file for more information.
+
+## Contributors
+
+* [Sylvain W. Combettes](https://sylvaincom.github.io/) (Centre Borelli, ENS Paris-Saclay)
+* [Charles Truong](https://charles.doffy.net/) (Centre Borelli, ENS Paris-Saclay)
+* [Laurent Oudre](http://www.laurentoudre.fr/) (Centre Borelli, ENS Paris-Saclay)
+
+## Acknowledgments
+
+Sylvain W. Combettes is supported by the IDAML chair (ENS Paris-Saclay) and UDOPIA (ANR-20-THIA-0013-01).
+Charles Truong is funded by the PhLAMES chair (ENS Paris-Saclay).
+Part of the computations has been executed on Atos Edge computer, funded by the IDAML chair (ENS Paris-Saclay).
+
+<p align="center">
+<img width="700" src="https://github.com/boniolp/dsymb-playground/blob/main/figures/cebo_logos.png"/>
+</p>
