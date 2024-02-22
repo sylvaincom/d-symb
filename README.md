@@ -1,6 +1,8 @@
 # $d_{symb}$: An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals
 
-:new: We developed the $d_{symb}$ playground [[website](https://sylvaincom.github.io/publication/2024-05-16-dsymb-icde) / [code](https://github.com/boniolp/dsymb-playground) / [Streamlit app](https://dsymb-playground.streamlit.app/)], a online tool (Streamlit application) to apply $d_{symb}$ to your uploaded data. :new:
+> **_NOTE:_** :new: :new: We developed the $d_{symb}$ playground [[website](https://sylvaincom.github.io/publication/2024-05-16-dsymb-icde) / [code](https://github.com/boniolp/dsymb-playground) / [Streamlit app](https://dsymb-playground.streamlit.app/)], a online tool (Streamlit application) to apply $d_{symb}$ to your uploaded data.
+
+
 
 This repository contains the code to reproduce all experiments in our publication:
 ```
