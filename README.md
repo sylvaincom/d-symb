@@ -2,17 +2,13 @@
 
 > **_NOTE:_** :new: :new: We developed the $d_{symb}$ playground [[website](https://sylvaincom.github.io/publication/2024-05-16-dsymb-icde) / [code](https://github.com/boniolp/dsymb-playground) / [Streamlit app](https://dsymb-playground.streamlit.app/)], a online tool (Streamlit application) to apply $d_{symb}$ to your uploaded data.
 
-This repository contains the code to reproduce all experiments in our publication:
-```
-S. W. Combettes, C. Truong, and L. Oudre.
+This repository contains the code to reproduce all experiments in our $d_{symb}$ publication [[paper](https://ieeexplore.ieee.org/abstract/document/10411636) / [PDF](http://www.laurentoudre.fr/publis/ICDM2023.pdf)]:
+> S. W. Combettes, C. Truong, and L. Oudre.
 An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals.
-In "Proceedings of the International Conference on Data Mining Workshops (ICDMW)", Shanghai, China, 2023.
-```
-Links: [paper](https://ieeexplore.ieee.org/abstract/document/10411636) / [PDF](http://www.laurentoudre.fr/publis/ICDM2023.pdf).
+In _Proceedings of the International Conference on Data Mining Workshops (ICDMW)_, Shanghai, China, 2023.
 
-Recommended citation:
 ```
-@INPROCEEDINGS{2023_combettes_dsymb_icdm,
+@inproceedings{2023_combettes_dsymb_icdm,
   author={Combettes, Sylvain W. and Truong, Charles and Oudre, Laurent},
   booktitle={2023 IEEE International Conference on Data Mining Workshops (ICDMW)}, 
   title={An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals}, 
